@@ -1,3 +1,3 @@
 # My-portfolio
 
-Click on link: https://rithikafjohnson.github.io/Rithika-s-Portfolio/
+Click to view: https://rithikafjohnson.github.io/Rithika-s-Portfolio/
